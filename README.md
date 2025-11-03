@@ -1,7 +1,9 @@
 # Alejandra Cuevas
 **Data Scientist | AI & Machine Learning Researcher**
-
 ---
+
+<img width="1584" height="396" alt="headerGithub" src="https://github.com/user-attachments/assets/3c1bf167-591c-483c-894c-f6a38db367c8" />
+
 
 ### About Me  
 
