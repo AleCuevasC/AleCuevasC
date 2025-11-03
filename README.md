@@ -18,6 +18,10 @@ I have designed and taught data science courses, led multidisciplinary teams, an
 - Data visualization and experimental design in research contexts
 
 Based in Cuernavaca, Mexico | Open to collaborations in AI for health, education, and responsible data science.  
+---
+### Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-cuevas-ds) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2155-7492)  
 
 ---
 
@@ -53,14 +57,6 @@ Based in Cuernavaca, Mexico | Open to collaborations in AI for health, education
 
 ### Featured Projects  
  
-
----
-
-### Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-cuevas-ds) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2155-7492)  
-
-
 ---
 
 *“Data should not only be analyzed but also understood — I’m passionate about bridging science, storytelling, and education through data.”*
