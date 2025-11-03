@@ -7,7 +7,7 @@
 
 ### About Me  
 
-I’m an **Data Scientist and Researcher** with international research experience (Japan) specializing in **Machine Learning**, **Predictive Modeling**, and **Data Science Education**.  
+I’m a **Data Scientist and Researcher** with international research experience (Japan) specializing in **Machine Learning**, **Predictive Modeling**, and **Data Science Education**.  
 My work bridges academia and applied research — exploring how data-driven methods can be used to solve real-world problems in healthcare, education, and technology**.
 
 I have designed and taught data science courses, led multidisciplinary teams, and conduct research on class imbalance, wearable sensor data, and explainable machine learning.  
