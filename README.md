@@ -46,9 +46,10 @@ Based in Cuernavaca, Mexico | Open to collaborations in AI for health, education
 
 ### Research & Publications  
 
-- **Machine Learning for Imbalanced Medical Datasets** – Ongoing Ph.D. work  
-- **Automatic Anxiety Detection via Wearable Sensors** – CENIDET Master Thesis  
-- **Peer-reviewed Publications:** 2 JCR (Q2), 3 conference papers  
+- **School Dropout Prediction with Class Balancing and Hyperparameter Configuration** – [https://link.springer.com/chapter/10.1007/978-3-031-51940-6_2] International Conference  
+- **Hyperparameter optimization approaches to improve the performance of machine learning models for cardiovascular risk prediction** – [https://doi.org/10.3233/JIFS-219376] JCR (Q2)
+- **Class Balancing in a Cardiovascular Disease Domain** [https://ieeexplore.ieee.org/document/10508658] IEEE - International Conference
+- **A Systematic Review of Machine Learning and IoT Applied to the Prediction and Monitoring of Cardiovascular Diseases** [https://doi.org/10.3390/healthcare11162240] JCR (Q2)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=mG5Yz1IAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Alejandra-Cuevas-4?ev=hdr_xprf)
 
