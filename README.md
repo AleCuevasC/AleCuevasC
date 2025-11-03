@@ -20,10 +20,9 @@ I have designed and taught data science courses, led multidisciplinary teams, an
 ---
 ### Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-cuevas-ds) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2155-7492)  
-
 Based in Cuernavaca, México. | Open to collaborations in AI for health, education, and responsible data science.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandra-cuevas-ds) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2155-7492)  
 ---
 
 ### Technical Expertise  
