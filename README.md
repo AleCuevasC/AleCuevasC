@@ -6,9 +6,10 @@
 
 ---
 
-Data should not only be analyzed but also understood. I'm passionat about bridging science, storytelling, and education through data.
+*Data should not only be analyzed but also understood. I'm passionat about bridging science, storytelling, and education through data.*
 
 ---
+
 ### About Me  
 
 I’m a **Data Scientist and Researcher** with international research experience (Japan) specializing in **Machine Learning**, **Predictive Modeling**, and **Data Science Education**.  
