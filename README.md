@@ -18,7 +18,7 @@ I have designed and taught data science courses, led multidisciplinary teams, an
 - Data visualization and experimental design in research contexts
 
 
-Based in Cuernavaca, Mexico | Open to collaborations in AI for health, education, and responsible data science. 
+## Based in Cuernavaca, Mexico | Open to collaborations in AI for health, education, and responsible data science. 
 ---
 ### Connect with Me  
 
