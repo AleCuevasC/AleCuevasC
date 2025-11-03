@@ -4,7 +4,8 @@
 
 <img width="1584" height="396" alt="headerGithub" src="https://github.com/user-attachments/assets/3c1bf167-591c-483c-894c-f6a38db367c8" />
 
-
+*Data should not only be analyzed but also understood — I’m passionate about bridging science, storytelling, and education through data.*
+---
 ### About Me  
 
 I’m a **Data Scientist and Researcher** with international research experience (Japan) specializing in **Machine Learning**, **Predictive Modeling**, and **Data Science Education**.  
@@ -51,7 +52,7 @@ Based in Cuernavaca, México. | Open to collaborations in AI for health, educati
 - [Class Balancing in a Cardiovascular Disease Domain](https://ieeexplore.ieee.org/document/10508658) - *IEEE International Conference*
 - [A Systematic Review of Machine Learning and IoT Applied to the Prediction and Monitoring of Cardiovascular Diseases](https://doi.org/10.3390/healthcare11162240) - *Healthcare (MDPI, JCR Q2)*
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?hl=en&authuser=2&user=mG5Yz1IAAAAJ)) | [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)]([https://www.researchgate.net/](https://www.researchgate.net/profile/Alejandra-Cuevas-4?ev=hdr_xprf))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)]([https://scholar.google.com/](https://scholar.google.com/citations?hl=en&authuser=2&user=mG5Yz1IAAAAJ))  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)]([https://www.researchgate.net/](https://www.researchgate.net/profile/Alejandra-Cuevas-4?ev=hdr_xprf))
 
 
 ---
@@ -60,6 +61,3 @@ Based in Cuernavaca, México. | Open to collaborations in AI for health, educati
 ### Featured Projects  
  
 ---
-
-*“Data should not only be analyzed but also understood — I’m passionate about bridging science, storytelling, and education through data.”*
-
